@@ -2,7 +2,8 @@
 - [SumitThakur](https://github.com/SumitThakur1600)
 - [EricccTaiwan](https://github.com/EricccTaiwan)
 - [yusraMasood](https://github.com/yusraMasood)
--[rohithGana](https://github.com/Rohithgvmg)
+- [Asadullah Abbasi](https://github.com/AsadullahAbbasi)
+- [rohithGana](https://github.com/Rohithgvmg)
 - [hmdaslam97](https://github.com/hmdaslam97)
 - [Weirdo-147](https://github.com/Weirdo-147)
 - [pratheek2474](https://github.com/Pratheek2474) : Learning
